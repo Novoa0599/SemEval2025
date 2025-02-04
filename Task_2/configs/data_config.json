@@ -1,0 +1,22 @@
+{
+    "remove_emojis": true,
+    "replace_emojis": false,
+    "emoji_replacement": "[EMOJI]",
+    "remove_urls": true,
+    "replace_urls": false,
+    "url_replacement": "[URL]",
+    "remove_mentions_and_hashtags": true,
+    "replace_mentions": false,
+    "replace_hashtags": false,
+    "mention_replacement": "@USER",
+    "hashtag_replacement": "#TOPIC",
+    "remove_numbers": false,
+    "replace_numbers": false,
+    "number_replacement": "[NUMBER]",
+    "remove_special_characters": true,
+    "replace_special_characters": false,
+    "special_character_replacement": " ",
+    "replace_accents": true,
+    "remove_stopwords": false,
+    "lemmatize": false
+}
